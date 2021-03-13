@@ -1,0 +1,15 @@
+source;share\rosbag2_compression_zstd\hook\cmake_prefix_path.ps1
+source;share\rosbag2_compression_zstd\hook\cmake_prefix_path.bat
+source;share\rosbag2_compression_zstd\hook\cmake_prefix_path.dsv
+source;share\rosbag2_compression_zstd\hook\path_dll.ps1
+source;share\rosbag2_compression_zstd\hook\path_dll.bat
+source;share\rosbag2_compression_zstd\hook\path_dll.dsv
+source;share\rosbag2_compression_zstd\hook\path.ps1
+source;share\rosbag2_compression_zstd\hook\path.bat
+source;share\rosbag2_compression_zstd\hook\path.dsv
+source;share\rosbag2_compression_zstd\hook\path-scripts.ps1
+source;share\rosbag2_compression_zstd\hook\path-scripts.bat
+source;share\rosbag2_compression_zstd\hook\path-scripts.dsv
+source;share\rosbag2_compression_zstd\hook\pythonpath.ps1
+source;share\rosbag2_compression_zstd\hook\pythonpath.bat
+source;share\rosbag2_compression_zstd\hook\pythonpath.dsv
